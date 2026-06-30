@@ -1,0 +1,93 @@
+GAIA — A NATURE-BACKED MONETARY SYSTEM
+License Statement
+
+==========================================================
+DOCUMENTS, WRITTEN CONTENT, MANIFESTO, AND DIAGRAMS
+==========================================================
+
+All written documents, frameworks, diagrams, and conceptual
+materials published under the Gaia project (gaia-economy.org)
+are licensed under:
+
+    Creative Commons Attribution-ShareAlike 4.0 International
+    (CC BY-SA 4.0)
+
+Full legal text: https://creativecommons.org/licenses/by-sa/4.0/
+
+You are free to:
+
+  SHARE — copy and redistribute the material in any medium
+  or format, for any purpose, even commercially.
+
+  ADAPT — remix, transform, and build upon the material,
+  for any purpose, even commercially.
+
+Under the following terms:
+
+  ATTRIBUTION — You must give appropriate credit to "Gaia /
+  gaia-economy.org," provide a link to the license, and
+  indicate if changes were made. You may do so in any
+  reasonable manner, but not in any way that suggests the
+  licensor endorses you or your use.
+
+  SHAREALIKE — If you remix, transform, or build upon the
+  material, you must distribute your contributions under
+  the same license as the original.
+
+No additional restrictions — You may not apply legal terms
+or technological measures that legally restrict others from
+doing anything the license permits.
+
+==========================================================
+SOFTWARE, CODE, AND TECHNICAL IMPLEMENTATIONS
+==========================================================
+
+Any source code, smart contracts, or technical implementations
+published as part of the Gaia project are licensed under:
+
+    Apache License, Version 2.0
+
+Full legal text: https://www.apache.org/licenses/LICENSE-2.0
+
+This permits commercial use, modification, distribution, and
+private use, with attribution required and no warranty
+provided. Patent rights are explicitly granted to users.
+
+==========================================================
+WHY THIS LICENSE
+==========================================================
+
+Gaia is offered freely and openly because the project's core
+premise is that ecological restoration should be the most
+financially rational choice available to anyone, anywhere.
+That premise is contradicted if the ideas themselves are
+locked behind exclusive rights.
+
+CC BY-SA was chosen over a fully unrestricted license (such
+as CC0 or MIT) for one reason: the ShareAlike requirement
+ensures that anyone who builds on Gaia's framework keeps
+their own work open in turn. This is not about controlling
+the idea — it is about ensuring the idea cannot be enclosed,
+forked into a closed and extractive system, and sold back
+to the world under different terms.
+
+You do not need permission to translate, adapt, present,
+teach, fork, or build upon any part of this framework.
+You only need to credit the source and keep your derivative
+work open under the same terms.
+
+==========================================================
+ATTRIBUTION FORMAT
+==========================================================
+
+When citing or adapting Gaia materials, the following
+attribution is sufficient:
+
+  "Based on the Gaia framework, originated by Carlo Toluzzi,
+  gaia-economy.org, licensed under CC BY-SA 4.0."
+
+==========================================================
+
+Gaia — A Nature-Backed Monetary System
+gaia-economy.org · hello@gaia-economy.org
+First published: 30 June 2026
